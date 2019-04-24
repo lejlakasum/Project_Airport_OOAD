@@ -1,0 +1,6 @@
+﻿namespace Aerodrom
+{
+    class AerodromViewModel
+    {
+    }
+}
